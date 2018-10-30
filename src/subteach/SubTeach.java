@@ -1,24 +1,8 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-//package subteach;
-
-/**
- *
- * @author 345983704
- */
-
 import java.util.Hashtable;
 import java.util.Map;
 
 public class SubTeach {
 
-    /**
-     * @param args the command line arguments
-     */
-    
     static Hashtable<Character, Integer> table = new Hashtable<>();
     
     public static void main(String[] args) {
